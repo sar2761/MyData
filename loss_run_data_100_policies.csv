@@ -1,0 +1,143 @@
+Policy Number,Policy Type,Claim Number,Date of Loss,Incurred Amount,Claim Description,Claim Status,Zip Code
+POL-1002,Auto,CLM-20002,2020-10-13,20038.47,Slip and fall injury,Open,68784
+POL-1003,Auto,CLM-20009,2025-03-03,1662.33,Rear-end collision,Closed,82172
+POL-1003,Auto,CLM-20010,2022-04-24,44161.39,Fender bender,Closed,11392
+POL-1003,Auto,CLM-20011,2021-09-30,12609.92,Property damage from storm,Open,09473
+POL-1004,Homeowners,CLM-20004,2025-05-22,9602.33,Vehicle vandalism,Open,86082
+POL-1005,Auto,CLM-20015,2023-12-22,3785.66,Rear-end collision,Open,42700
+POL-1005,Auto,CLM-20016,2022-10-21,4438.12,Water damage from burst pipe,Open,09076
+POL-1005,Auto,CLM-20017,2021-02-03,2081.77,Theft of personal property,Closed,66163
+POL-1007,Homeowners,CLM-20007,2025-04-18,29631.11,Dog bite liability,Open,03698
+POL-1008,Commercial General Liability,CLM-20016,2021-06-16,35036.95,Fire damage,Open,60140
+POL-1008,Commercial General Liability,CLM-20017,2023-05-27,6199.83,Theft of personal property,Open,48319
+POL-1011,Commercial General Liability,CLM-20011,2024-12-21,20131.12,Theft of personal property,Open,89488
+POL-1012,Homeowners,CLM-20012,2022-05-18,38949.1,Rear-end collision,Open,19326
+POL-1013,Commercial General Liability,CLM-20013,2024-03-23,13448.41,Fire damage,Closed,80593
+POL-1014,Commercial General Liability,CLM-20014,2021-04-10,48835.66,Vehicle vandalism,Open,48077
+POL-1015,Commercial General Liability,CLM-20030,2025-08-26,2231.22,Water damage from burst pipe,Closed,20010
+POL-1015,Commercial General Liability,CLM-20031,2020-12-25,38810.91,Dog bite liability,Open,71909
+POL-1016,Auto,CLM-20032,2024-07-09,39515.61,Vehicle vandalism,Open,69741
+POL-1016,Auto,CLM-20033,2022-11-05,25108.7,Sideswipe accident,Closed,81166
+POL-1018,Auto,CLM-20036,2021-03-26,3441.81,Fender bender,Closed,32524
+POL-1018,Auto,CLM-20037,2023-08-12,4449.39,Vehicle vandalism,Open,58074
+POL-1020,Auto,CLM-20020,2023-03-27,2619.68,Theft of personal property,Closed,95186
+POL-1021,Commercial General Liability,CLM-20021,2021-09-10,37659.68,Water damage from burst pipe,Closed,77934
+POL-1022,Commercial General Liability,CLM-20044,2024-07-29,26345.05,Tree falling on property,Closed,97292
+POL-1022,Commercial General Liability,CLM-20045,2022-01-12,17042.43,Property damage from storm,Closed,82438
+POL-1023,Commercial General Liability,CLM-20023,2021-06-21,28246.53,Hail damage,Open,28028
+POL-1024,Auto,CLM-20048,2024-05-26,46308.76,Theft of personal property,Closed,80567
+POL-1024,Auto,CLM-20049,2022-11-24,22228.34,Slip and fall injury,Closed,04267
+POL-1025,Auto,CLM-20025,2020-12-25,12147.47,Property damage from storm,Closed,96963
+POL-1027,Homeowners,CLM-20081,2021-05-20,15808.42,Hail damage,Open,19195
+POL-1027,Homeowners,CLM-20082,2023-02-23,24453.46,Rear-end collision,Open,47587
+POL-1027,Homeowners,CLM-20083,2023-10-18,8530.99,Property damage from storm,Open,03147
+POL-1028,Commercial General Liability,CLM-20028,2021-02-16,27718.05,Slip and fall injury,Open,18204
+POL-1029,Commercial General Liability,CLM-20029,2022-09-14,41424.92,Property damage from storm,Closed,64827
+POL-1030,Commercial General Liability,CLM-20030,2022-12-02,12430.8,Rear-end collision,Closed,39458
+POL-1031,Auto,CLM-20124,2021-05-03,31301.0,Tree falling on property,Closed,01529
+POL-1031,Auto,CLM-20125,2022-11-25,1413.46,Theft of personal property,Closed,19907
+POL-1031,Auto,CLM-20126,2021-01-11,6071.44,Theft of personal property,Closed,36874
+POL-1031,Auto,CLM-20127,2025-08-19,40771.47,Tree falling on property,Open,87679
+POL-1032,Auto,CLM-20192,2023-04-27,30566.56,Vehicle vandalism,Closed,70727
+POL-1032,Auto,CLM-20193,2025-07-19,37054.18,Tree falling on property,Closed,96120
+POL-1032,Auto,CLM-20194,2021-05-21,5757.73,Rear-end collision,Closed,69984
+POL-1032,Auto,CLM-20195,2021-08-27,15532.44,Vehicle vandalism,Closed,25481
+POL-1032,Auto,CLM-20196,2023-06-27,21438.58,Theft of personal property,Closed,61963
+POL-1032,Auto,CLM-20197,2024-07-21,31830.57,Sideswipe accident,Open,21170
+POL-1033,Commercial General Liability,CLM-20132,2023-02-27,29424.23,Hail damage,Open,27972
+POL-1033,Commercial General Liability,CLM-20133,2025-01-14,49460.4,Sideswipe accident,Closed,17204
+POL-1033,Commercial General Liability,CLM-20134,2022-09-18,30295.11,Fender bender,Closed,94782
+POL-1033,Commercial General Liability,CLM-20135,2023-06-21,34072.56,Fender bender,Open,74348
+POL-1034,Commercial General Liability,CLM-20068,2022-07-21,1533.52,Dog bite liability,Closed,17052
+POL-1034,Commercial General Liability,CLM-20069,2023-02-06,17372.56,Fender bender,Open,42069
+POL-1035,Auto,CLM-20035,2023-01-24,46418.83,Sideswipe accident,Open,80125
+POL-1036,Homeowners,CLM-20036,2021-12-26,42383.18,Fire damage,Open,44780
+POL-1037,Homeowners,CLM-20148,2023-06-27,18134.87,Theft of personal property,Open,34976
+POL-1037,Homeowners,CLM-20149,2021-11-08,42282.3,Property damage from storm,Closed,81583
+POL-1037,Homeowners,CLM-20150,2021-03-10,1373.01,Property damage from storm,Open,30137
+POL-1037,Homeowners,CLM-20151,2022-03-22,7596.82,Theft of personal property,Open,98911
+POL-1038,Auto,CLM-20038,2021-09-28,36061.06,Theft of personal property,Open,95800
+POL-1039,Homeowners,CLM-20117,2024-06-16,10569.19,Vehicle vandalism,Closed,14469
+POL-1039,Homeowners,CLM-20118,2025-07-19,34801.55,Tree falling on property,Open,78142
+POL-1039,Homeowners,CLM-20119,2022-04-01,17977.25,Vehicle vandalism,Open,94962
+POL-1040,Commercial General Liability,CLM-20080,2021-01-22,27539.26,Water damage from burst pipe,Open,43175
+POL-1040,Commercial General Liability,CLM-20081,2024-06-30,28313.95,Tree falling on property,Open,19072
+POL-1041,Homeowners,CLM-20082,2022-10-21,21132.58,Hail damage,Closed,36792
+POL-1041,Homeowners,CLM-20083,2024-06-24,41907.4,Dog bite liability,Open,31246
+POL-1042,Auto,CLM-20210,2023-07-13,47712.81,Tree falling on property,Closed,16428
+POL-1042,Auto,CLM-20211,2022-09-30,41798.43,Tree falling on property,Open,53891
+POL-1042,Auto,CLM-20212,2022-06-03,21396.55,Property damage from storm,Open,64446
+POL-1042,Auto,CLM-20213,2020-12-01,7639.64,Theft of personal property,Open,27227
+POL-1042,Auto,CLM-20214,2025-07-27,33167.3,Tree falling on property,Open,64770
+POL-1044,Commercial General Liability,CLM-20088,2024-03-05,47932.84,Slip and fall injury,Closed,37477
+POL-1044,Commercial General Liability,CLM-20089,2021-06-23,24899.54,Theft of personal property,Open,92930
+POL-1045,Homeowners,CLM-20180,2020-11-06,6405.11,Slip and fall injury,Open,98971
+POL-1045,Homeowners,CLM-20181,2025-02-14,48626.85,Fire damage,Closed,77709
+POL-1045,Homeowners,CLM-20182,2021-12-02,40553.6,Water damage from burst pipe,Closed,85901
+POL-1045,Homeowners,CLM-20183,2023-09-17,31762.48,Dog bite liability,Open,33544
+POL-1046,Auto,CLM-20046,2020-09-25,6798.62,Slip and fall injury,Open,13502
+POL-1047,Auto,CLM-20094,2020-10-13,24461.33,Theft of personal property,Open,61994
+POL-1047,Auto,CLM-20095,2023-09-08,34783.96,Hail damage,Closed,34721
+POL-1048,Commercial General Liability,CLM-20096,2022-10-24,32829.8,Fire damage,Closed,92714
+POL-1048,Commercial General Liability,CLM-20097,2023-02-05,2890.93,Theft of personal property,Closed,14035
+POL-1050,Homeowners,CLM-20150,2023-08-30,12754.7,Property damage from storm,Closed,30186
+POL-1050,Homeowners,CLM-20151,2020-10-21,37161.17,Hail damage,Open,36743
+POL-1050,Homeowners,CLM-20152,2022-02-19,48372.91,Rear-end collision,Open,45062
+POL-1053,Auto,CLM-20212,2021-06-21,12742.29,Sideswipe accident,Closed,06528
+POL-1053,Auto,CLM-20213,2021-07-31,3034.89,Slip and fall injury,Closed,65273
+POL-1053,Auto,CLM-20214,2021-08-30,43896.21,Vehicle vandalism,Closed,44468
+POL-1053,Auto,CLM-20215,2023-05-12,20269.6,Dog bite liability,Open,26995
+POL-1054,Auto,CLM-20108,2024-07-06,48108.56,Dog bite liability,Open,54388
+POL-1054,Auto,CLM-20109,2021-05-19,34492.99,Fender bender,Open,62827
+POL-1055,Commercial General Liability,CLM-20055,2025-04-25,17307.1,Dog bite liability,Closed,19570
+POL-1056,Homeowners,CLM-20112,2023-08-19,32322.06,Property damage from storm,Closed,45704
+POL-1056,Homeowners,CLM-20113,2021-01-26,47557.44,Slip and fall injury,Open,53412
+POL-1057,Commercial General Liability,CLM-20114,2021-03-12,2188.32,Vehicle vandalism,Open,99091
+POL-1057,Commercial General Liability,CLM-20115,2022-10-12,35850.29,Dog bite liability,Closed,67183
+POL-1060,Homeowners,CLM-20060,2020-10-09,47684.55,Water damage from burst pipe,Closed,71823
+POL-1062,Homeowners,CLM-20062,2025-07-07,33582.55,Tree falling on property,Closed,77380
+POL-1063,Commercial General Liability,CLM-20126,2021-02-25,31276.38,Dog bite liability,Closed,64987
+POL-1063,Commercial General Liability,CLM-20127,2021-05-30,9229.89,Fender bender,Closed,84779
+POL-1064,Auto,CLM-20064,2024-06-06,14184.76,Fire damage,Closed,22350
+POL-1066,Commercial General Liability,CLM-20066,2024-08-26,19201.15,Dog bite liability,Closed,68000
+POL-1067,Commercial General Liability,CLM-20067,2024-09-17,45756.97,Sideswipe accident,Closed,22538
+POL-1068,Commercial General Liability,CLM-20068,2025-08-26,37669.14,Hail damage,Open,32583
+POL-1070,Commercial General Liability,CLM-20140,2025-07-31,29957.19,Fire damage,Open,78058
+POL-1070,Commercial General Liability,CLM-20141,2025-05-07,4329.45,Slip and fall injury,Open,00554
+POL-1071,Auto,CLM-20142,2022-02-18,27354.64,Hail damage,Open,41819
+POL-1071,Auto,CLM-20143,2021-11-19,33076.67,Slip and fall injury,Closed,40096
+POL-1072,Homeowners,CLM-20144,2022-05-05,43086.03,Fire damage,Closed,06472
+POL-1072,Homeowners,CLM-20145,2022-01-27,2786.81,Vehicle vandalism,Open,85588
+POL-1074,Commercial General Liability,CLM-20148,2021-08-17,42690.39,Theft of personal property,Closed,63588
+POL-1074,Commercial General Liability,CLM-20149,2020-11-21,48804.44,Theft of personal property,Closed,79310
+POL-1075,Homeowners,CLM-20225,2021-02-06,41683.01,Vehicle vandalism,Closed,83239
+POL-1075,Homeowners,CLM-20226,2024-07-29,36739.35,Fire damage,Closed,04368
+POL-1075,Homeowners,CLM-20227,2021-11-24,14894.85,Tree falling on property,Closed,58464
+POL-1076,Auto,CLM-20076,2023-04-10,24845.76,Hail damage,Open,18874
+POL-1077,Homeowners,CLM-20154,2022-11-30,45989.56,Vehicle vandalism,Closed,45953
+POL-1077,Homeowners,CLM-20155,2022-04-01,1850.9,Rear-end collision,Closed,19102
+POL-1080,Auto,CLM-20080,2023-08-12,37890.11,Tree falling on property,Closed,78240
+POL-1081,Auto,CLM-20081,2024-06-04,41993.64,Tree falling on property,Open,52175
+POL-1082,Homeowners,CLM-20164,2024-02-05,13306.51,Hail damage,Closed,43320
+POL-1082,Homeowners,CLM-20165,2024-11-17,47067.31,Tree falling on property,Open,35107
+POL-1083,Auto,CLM-20166,2023-08-26,47890.25,Dog bite liability,Closed,08629
+POL-1083,Auto,CLM-20167,2023-04-04,20094.61,Theft of personal property,Closed,34667
+POL-1085,Homeowners,CLM-20255,2021-07-19,31548.71,Slip and fall injury,Open,89783
+POL-1085,Homeowners,CLM-20256,2024-01-01,18343.68,Tree falling on property,Open,47607
+POL-1085,Homeowners,CLM-20257,2021-04-07,41695.25,Dog bite liability,Open,18939
+POL-1086,Auto,CLM-20172,2025-09-05,40998.32,Vehicle vandalism,Open,08096
+POL-1086,Auto,CLM-20173,2024-11-23,39074.45,Fire damage,Open,67028
+POL-1087,Auto,CLM-20261,2021-06-30,38495.87,Fender bender,Open,83249
+POL-1087,Auto,CLM-20262,2022-09-27,26471.48,Fire damage,Closed,15645
+POL-1087,Auto,CLM-20263,2025-07-18,39142.52,Fire damage,Open,28066
+POL-1088,Auto,CLM-20088,2023-11-08,19382.58,Vehicle vandalism,Open,71464
+POL-1089,Auto,CLM-20089,2020-09-09,3708.87,Sideswipe accident,Open,44962
+POL-1090,Auto,CLM-20090,2023-06-09,37839.52,Dog bite liability,Open,31942
+POL-1091,Commercial General Liability,CLM-20091,2022-07-04,6891.85,Tree falling on property,Open,29776
+POL-1093,Homeowners,CLM-20186,2025-07-31,36364.71,Fire damage,Closed,59115
+POL-1093,Homeowners,CLM-20187,2025-04-23,13459.46,Dog bite liability,Closed,37979
+POL-1094,Homeowners,CLM-20094,2025-07-23,30225.84,Property damage from storm,Closed,10990
+POL-1095,Auto,CLM-20095,2021-04-26,37682.68,Dog bite liability,Open,30230
+POL-1096,Commercial General Liability,CLM-20096,2023-03-26,28460.46,Rear-end collision,Closed,72588
+POL-1097,Commercial General Liability,CLM-20097,2024-10-17,10745.61,Water damage from burst pipe,Closed,94255
+POL-1098,Auto,CLM-20098,2025-02-01,41236.02,Fender bender,Closed,26129
